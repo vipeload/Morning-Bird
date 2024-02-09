@@ -7,9 +7,9 @@
 ### </> Developers:
 
 
-[<img src="https://avatars.githubusercontent.com/u/108973583?s=64&v=4" width="64"/>](https://github.com/TheQuintpl)
-[<img src="https://avatars.githubusercontent.com/u/149161601?s=64&v=4" width="64"/>](https://github.com/TheQuintpl)
-[<img src="https://avatars.githubusercontent.com/u/139067719?s=60&v=4" width="64"/>](https://github.com/TheQuintpl)
+[<img src="https://avatars.githubusercontent.com/u/108973583?s=64&v=4" width="64"/>](https://github.com/uzyanbaev)
+[<img src="https://avatars.githubusercontent.com/u/149161601?s=64&v=4" width="64"/>](https://github.com/imperorofdoomsday)
+[<img src="https://avatars.githubusercontent.com/u/139067719?s=60&v=4" width="64"/>](https://github.com/kharrasov)
 
 ### 🌟 Features:
 - Addictive gameplay that requires skill and reaction.
