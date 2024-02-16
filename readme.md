@@ -18,8 +18,6 @@
 [<img src="https://avatars.githubusercontent.com/u/108973583?s=64&v=4" width="64"/>](https://github.com/uzyanbaev)
 [<img src="https://avatars.githubusercontent.com/u/149161601?s=64&v=4" width="64"/>](https://github.com/imperorofdoomsday)
 [<img src="https://avatars.githubusercontent.com/u/157495992?s=64&v=4" width="64"/>](https://github.com/kharrasov)
-[<img src="https://avatars.githubusercontent.com/u/139067719?v=4" width="64"/>](https://github.com/baydavletov)
-
 <hr>
 
 <a name="rus"></a>
@@ -31,4 +29,3 @@
 [<img src="https://avatars.githubusercontent.com/u/108973583?s=64&v=4" width="64"/>](https://github.com/uzyanbaev)
 [<img src="https://avatars.githubusercontent.com/u/149161601?s=64&v=4" width="64"/>](https://github.com/imperorofdoomsday)
 [<img src="https://avatars.githubusercontent.com/u/157495992?s=64&v=4" width="64"/>](https://github.com/kharrasov)
-[<img src="https://avatars.githubusercontent.com/u/139067719?v=4" width="64"/>](https://github.com/baydavletov)
