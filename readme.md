@@ -1,5 +1,5 @@
 # Morning Bird
-<img src="morning-bird.gif" width="300">
+<img src="morning-bird.gif" width="350">
 
 ## Languages
 
