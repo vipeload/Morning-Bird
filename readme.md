@@ -1,7 +1,7 @@
 # Morning Bird
 <img src="morning-bird.gif" width="350">
 
-## Languages
+## 🌐 Languages
 
 - [English](#eng)
 - [Russian](#rus)
